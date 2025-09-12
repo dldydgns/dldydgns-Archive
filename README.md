@@ -16,9 +16,12 @@
 
 | 프로젝트 이름 | 주요 내용 | 링크 |
 |---------------|-----------|------|
-| PartitioningDB | MySQL 파티셔닝을 활용하여 대용량 Movielens 리뷰 데이터를 효율적으로 처리<br>범주형 및 범위 기반 파티션을 비교하며 성능 차이 실험 | [🔗링크](https://github.com/dldydgns/PartitioningDB) |
+| PartitioningDB | MySQL 파티셔닝을 활용하여 대용량 Movielens 리뷰 데이터를 효율적으로 처리<br>범주형 및 범위 기반 파티션을 비교하며 성능 차이 실험 | [🔗](https://github.com/dldydgns/PartitioningDB) |
 
 ---
 
 ## 🧩 그 외 프로젝트 모음
 
+| 프로젝트 이름 | 주요 내용 | 링크 |
+|---------------|-----------|------|
+| Linux_DB_Backup | Cron을 활용하여 DB백업을 자동화합니다 | [🔗](https://github.com/dldydgns/Linux_DB_Backup) |
