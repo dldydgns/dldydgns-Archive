@@ -17,6 +17,7 @@
 | 프로젝트 이름 | 주요 내용 | 링크 |
 |---------------|-----------|------|
 | PartitioningDB | MySQL 파티셔닝을 활용하여 대용량 Movielens 리뷰 데이터를 효율적으로 처리<br>범주형 및 범위 기반 파티션을 비교하며 성능 차이 실험 | [🔗](https://github.com/dldydgns/PartitioningDB) |
+| K8S_Study | Kubernetes 학습을 위한 소규모 프로젝트 및 테스트 모음입니다 | [🔗](https://github.com/dldydgns/K8S_Study) |
 
 ---
 
