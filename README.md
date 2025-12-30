@@ -2,7 +2,8 @@
 
 | No | 프로젝트 이름 | 이미지 | 주요 내용 | 링크 |
 |----|----------------|--------|-----------|------|
-| 1  | Privideo | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/595a4034-8263-48f5-9052-1d215e90ed4c" /> | 하이브리드 클라우드 기반 프라이빗 영상 공유 플랫폼 | [🔗](https://github.com/AllStackProject) |
+| 1  | Privideo | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3f67a191-bf70-41f5-9fad-3e29b1fae785" />
+ | 하이브리드 클라우드 기반 프라이빗 영상 공유 플랫폼 | [🔗](https://github.com/AllStackProject) |
 | 2  | Woori-compensaTX | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6786ccad-5a57-423b-9e76-08d468061301" /> | SAGA 패턴 기반 분산 환전 시스템<br>Kafka DLT 처리 및 장애 대응  | [🔗](https://github.com/Woori-compensaTX) |
 | 3  | FISA_SeatHelper | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9b3fcc6e-7b92-42d1-baf8-40237b2a1f67" /> | FISA과정 학생들을 위한 자동 자리배치 프로그램<br>안경 착용자 고려 / 파트너 히스토리 기반 로직 포함 | [🔗](https://github.com/dldydgns/FISA_SeatHelper) |
 | 4  | ELKminiProject | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0436efd1-3f18-4790-8a71-29905f2f360b" /> | FISA과정 학생들을 위한 출결 및 취향 데이터분석  | [🔗](https://github.com/dldydgns/ELKminiProject) |
